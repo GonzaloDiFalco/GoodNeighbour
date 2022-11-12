@@ -80,7 +80,7 @@ nav {
 
 .nav-menu li {
     display: none;
-    line-height: 15px;
+    line-height: 10px;
     margin: 50px 0;
     transition: all .5s; 
 }
@@ -105,7 +105,7 @@ nav {
 
 #check:checked ~ .nav-menu {
     height: fit-content;
-    max-height: 55vh ;
+    max-height: fit-content ;
 }
 
 #check:checked ~ .nav-menu li {
