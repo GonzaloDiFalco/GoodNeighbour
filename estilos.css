@@ -469,6 +469,7 @@ div.paquete h4 {
 
 img.footofamimg {
     width: 100%;
+    max-width: 850px;
 }
 
 
