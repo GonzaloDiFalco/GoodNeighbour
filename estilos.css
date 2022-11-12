@@ -104,7 +104,8 @@ nav {
 }
 
 #check:checked ~ .nav-menu {
-    height: 40vh;
+    height: fit-content;
+    max-height: 55vh ;
 }
 
 #check:checked ~ .nav-menu li {
